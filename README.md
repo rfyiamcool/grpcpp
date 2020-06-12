@@ -1,6 +1,8 @@
-# grpcpp
+<img src="logo.png" alt="xiaorui.cc grpcpp" height="90px" width="130px">
 
-`grpc ++` == `grpc plus plus`
+## grpcpp
+
+`grpc plus plus` is not c++ grpc. 😅
 
 grpc utils
 
